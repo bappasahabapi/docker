@@ -18,4 +18,4 @@
 - 03 🔥 [s2-docker-03-python-app-starting-setup]()
 
 
-More Details visit: [bappasaha.com](https://bappasaha.vercel.app/)# docker
+More Details visit: [bappasaha.com](https://bappasaha.vercel.app/)
